@@ -1,6 +1,6 @@
 [
    {
-	  "Id":"111-A",
+      "Id":"111-A",
       "ProductName":"House Of X/Powers Of X",
       "GraphicName":"HousePowersX",
       "Description":"Collects Powers Of X #1-6, House Of X #1-6. Face the future — and fear the future — as superstar writer Jonathan Hickman (INFINITY, NEW AVENGERS, FANTASTIC FOUR) changes everything for the X-Men! In HOUSE OF X, Charles Xavier reveals his master plan for mutantkind — one that will bring mutants out of humankind’s shadow and into the light once more! Meanwhile, POWERS OF X reveals mutantkind’s secret history, changing the way you will look at every X-Men story before and after. But as Xavier sows the seeds of the past, the X-Men’s future blossoms into trouble for all of mutantdom. Stories intertwine on an epic scale as Jonathan Hickman reshapes the X-Men’s past, present and future!",
@@ -22,7 +22,7 @@
       "Brand":"Marvel"
    },
    {
-	  "Id":"111-C",
+      "Id":"111-C",
       "ProductName":"Daredevil by Chip Zdarsky Vol. 1: Know Fea",
       "GraphicName":"drdvl",
       "Description":"The next chapter in the ever-surprising saga of Daredevil! After a brush with death, Matt Murdock must piece together his shattered life — and that includes returning to action as Daredevil! But years of trauma have taken their toll, and becoming the guardian of Hell's Kitchen he once was won't be easy. Mistakes will be made along the way — and this time, one might actually prove to be the end of him. Because when a criminal dies, and Daredevil takes the blame, Matt must go on the run in a desperate bid to clear his name! But even he can't outrun judgment forever. And with DD's absence from Hell's Kitchen, the real devils can come out to play.",
@@ -66,7 +66,7 @@
       "Brand":"DC Comics"
    },
    {
-   "Id":"222-B",
+      "Id":"222-B",
       "ProductName":"Batman: The Long Halloween",
       "GraphicName":"longcandy",
       "Description":"Taking place during Batman's early days of crime-fighting, this new edition of the classic mystery tells the story of a mysterious killer who murders his prey only on holidays. Working with District Attorney Harvey Dent and Lieutenant James Gordon, Batman races against the clock as he tries to discover who Holiday is before he claims his next victim each month. A mystery that has the reader continually guessing the identity of the killer, this story also ties into the events that transform Harvey Dent into Batman's deadly enemy, Two-Face. Collects BATMAN: THE LONG HALLOWEEN #1-13.",
@@ -76,7 +76,8 @@
       "QtyOnBackOrder":"15",
       "Brand":"DC Comics"
    },
-   {"Id":"222-D",
+   {
+      "Id":"222-D",
       "ProductName":"Infinite Crisis Omnibus (New Edition)",
       "GraphicName":"InfcrisOMNI",
       "Description":"This omnibus collects Action Comics #826, #829, Adventures of Superman #639, #642, Countdown to Infinite Crisis, Day of Vengeance #1-6, Day of Vengeance Infinite Crisis Special, JLA #115-119, Infinite Crisis #1-6, Infinite Crisis Secret Files 2006, The OMAC Project #1-6, The OMAC Project Infinite Crisis Special, Rann-Thanagar War #1-6, The Rann-Thanagar Infinite Crisis Special, Superman #216, #219, Villains United #1-6, Villains United Infinite Crisis Special and Wonder Woman #219.",
@@ -87,7 +88,7 @@
       "Brand":"DC Comics"
    },
    {
-   "Id":"222-E",
+      "Id":"222-E",
       "ProductName":"JLA by Grant Morrison Omnibus",
       "GraphicName":"jlamorrison",
       "Description":"In 1996, Grant Morrison--the visionary writer of The Invisible, Animal Man, Doom Patrol and more--joined forces with artist Howard Porter to relaunch the Justice League of America as JLA. Morrison and Porter revitalized the franchise by gathering DC's greatest heroes--Superman, Batman, Wonder Woman, Green Lantern, the Flash, Aquaman, and Martian Manhunter--and propelling these icons into inventive, modern stories with the highest of stakes. Now based on a Watchtower on the moon, the JLA took on classic threats including the White Martians, the Injustice Gang, and the Key; along with new foes such as Prometheus.",
@@ -98,7 +99,7 @@
       "Brand":"DC Comics"
    },
    {
-   "Id":"222-C",
+      "Id":"222-C",
       "ProductName":"Batman: Last Knight on Earth (2019)",
       "GraphicName":"lastnknight",
       "Description":"Twenty years in the future, Bruce Wayne wakes up in Arkham Asylum. Young. Sane. And... he's never been Batman. So begins this sprawling tale of the Dark Knight as he embarks on a quest through a devastated DC landscape, featuring a massive cast of familiar faces from the DC Universe. As he tries to piece together the mystery of his past, he must unravel the cause of this terrible future and track down the unspeakable force that destroyed the world as he knew it... From the powerhouse creative team of writer Scott Snyder and artist Greg Capullo, the team that reinvented Batman from the emotional depths of Batman: Court of Owls to the epic power of Dark Nights: Metal, DC presents what could be the last Batman story ever told... Collects Batman: Last Knight on Earth #1-3.",
@@ -109,7 +110,7 @@
       "Brand":"DC Comics"
    },
    {
-   "Id":"333-A",
+      "Id":"333-A",
       "ProductName":"The Walking Dead Compendium Vol. 1",
       "GraphicName":"wd1",
       "Description":"Since 2003, Robert Kirkman's The Walking Dead has been redefining the survival horror genre with its unique and vivid account of life after the end of the world. Although the cast is diverse and often changing (including, of course, a great number of zombies), at the heart of every tale is Rick Grimes: former police officer, husband, father, and de facto leader of a ragtag band of survivors looking to make a future for themselves in a world that no longer has one. To call The Walking Dead a zombie tale is accurate to a point, but it touches on only one facet of a story that asks timeless questions about what it means to live. It also asks whether or not this is possible in a world full of the dead. This is a great opportunity to experience this gripping read for the first time or catch up on the tale with the first four years worth of material, collected in one volume for the first time.",
@@ -120,7 +121,7 @@
       "Brand":"Image Comics"
    },
    {
-   "Id":"333-B",
+      "Id":"333-B",
       "ProductName":"The Walking Dead Compendium Vol. 2",
       "GraphicName":"wd2",
       "Description":"Returning with the second eight volumes of the fan-favorite, New York Times bestseller series, The Walking Dead, collected into one massive collection!",
@@ -131,7 +132,7 @@
       "Brand":"Image Comics"
    },
    {
-   "Id":"333-C",
+      "Id":"333-C",
       "ProductName":"The Walking Dead Compendium Vol. 3",
       "GraphicName":"wd3",
       "Description":"The fan- favorite, New York Times bestselling series returns with its third massive collection! With over 1,000 pages, this volume contains the next chapter of ROBERT KIRKMAN's Eisner Award-winning continuing story of survival horror. Rick Grimes's dream of rebuilding civilization is tested as the people of Alexandria come into contact with other communities that have developed their own methods of survival.",
@@ -142,7 +143,7 @@
       "Brand":"Image Comics"
    },
    {
-   "Id":"333-D",
+      "Id":"333-D",
       "ProductName":"The Walking Dead Compendium Vol. 4",
       "GraphicName":"wd4",
       "Description":"Just in time for the new season of The Walking Dead on AMC, the fan-favorite, New York Times bestselling series returns with its FOURTH massive paperback collection! With over 1,000 pages, this volume contains the next chapter of ROBERT KIRKMAN and CHARLIE ADLARD's Eisner Award-winning continuing story of survival horror. From the Whisperers to the Commonwealth, Rick Grimes meets new allies and enemies on the way to reclaiming the world from the dead. Wars are started, and dear friends fall... Collects THE WALKING DEAD #145-193",
@@ -153,7 +154,7 @@
       "Brand":"Image Comics"
    },
    {
-   "Id":"333-E",
+      "Id":"333-E",
       "ProductName":"Saga: Compendium One",
       "GraphicName":"saga1",
       "Description":"THE ULTIMATE BINGE-READ! Collecting the first nine volumes of the critically acclaimed, New York Times bestselling series into one massive paperback, this compendium tells the entire story (so far!) of a girl named Hazel and her star-crossed parents. Features 1,400 pages of gorgeously graphic full-color artwork, including a new cover from Eisner Award-winning SAGA co-creator FIONA STAPLES. Collects SAGA #1-54",
@@ -164,4 +165,3 @@
       "Brand":"Image Comics"
    }
 ]
-
